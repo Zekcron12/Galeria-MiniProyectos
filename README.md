@@ -1,6 +1,6 @@
 # Galeria-MiniProyectos
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/80788960/130478085-6f8afbba-0f59-4b4d-a793-6bf7947d48bc.png"/>
+  <img src="https://user-images.githubusercontent.com/80788960/130529080-c83e215f-6a73-4d4b-8df8-382ae3d91a5b.png"/>
 </p>
 
 
