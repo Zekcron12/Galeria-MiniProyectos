@@ -1,3 +1,7 @@
 # Galeria-MiniProyectos
-![1](https://user-images.githubusercontent.com/80788960/130477272-498804dd-cbad-493b-916c-79ba5c5c5c8b.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/80788960/130478085-6f8afbba-0f59-4b4d-a793-6bf7947d48bc.png"/>
+</p>
+
+
 
