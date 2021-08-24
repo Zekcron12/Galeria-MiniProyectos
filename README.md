@@ -11,3 +11,11 @@
 [➤ Repositorio Nº 3](https://github.com/Zekcron12/Gallery-3-Lista)    ❝ Lista ❞.
 
 [➤ Repositorio Nº 4](https://github.com/Zekcron12/Gallery-4-Menu)    ❝ Menú Despegable ❞.
+
+[➤ Repositorio Nº 5](https://github.com/Zekcron12/Gallery-5-Perfil)    ❝ Perfil Card ❞.
+
+[➤ Repositorio Nº 6](https://github.com/Zekcron12/Gallery-6-Ruleta)    ❝ Ruleta ❞.
+
+[➤ Repositorio Nº 7](https://github.com/Zekcron12/Gallery-7-YinYang)    ❝ Símbolo YinYang ❞.
+
+[➤ Repositorio Nº 8](https://github.com/Zekcron12/Gallery-8-Hexagonal)    ❝ Galería Hexagonal ❞.
