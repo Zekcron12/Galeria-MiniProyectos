@@ -23,4 +23,4 @@
 
 [➤ Repositorio Nº 7](https://github.com/Zekcron12/Gallery-7-YinYang)    ❝ Símbolo YinYang ❞.
 
-[➤ Repositorio Nº 8](https://github.com/Zekcron12/Gallery-8-Hexagonal)    ❝ Galería Hexagonal ❞.
+[➤ Repositorio Nº 8](https://github.com/Zekcron12/Gallery-8-DeathNote)    ❝ Libreta Deadth Note ❞.
